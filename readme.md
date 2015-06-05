@@ -1,5 +1,8 @@
 ## Laravel5 email authentication
 
+NOTICE: Laravel 5.0 is deprecated.  Use Laravel 5.1 with LTS instead:
+https://github.com/iateadonut/laravel51-email-authentication
+
 This is an implementation of the work of Luca Bernardino at codeanchor.net.
 
 There are a few changes, including the refactoring he talks about for
